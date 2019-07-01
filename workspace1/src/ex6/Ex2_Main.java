@@ -16,5 +16,7 @@ public class Ex2_Main {
 		System.out.println("static num1:"+ref2.getNum1());
 		System.out.println("non static num2:"+ref2.getNum2());
 	}
+	
+	
 
 }
